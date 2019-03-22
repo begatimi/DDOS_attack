@@ -1,0 +1,5 @@
+python name_projekt --host host_name -number_of_thread
+
+python det1.py --host 216.58.212.46 -t 10
+	or
+python det1.py --host telegrafi.com -t 10
